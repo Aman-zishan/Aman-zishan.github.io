@@ -218,7 +218,7 @@ p {
 }
 
 .card #p1 {
-    background-image: url('html.png');
+    background-image: url('oh.png');
     background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -229,7 +229,7 @@ p {
 }
 
 .card #p2 {
-	background-image: url('css.png');
+	background-image: url('letspy.png');
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
