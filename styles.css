@@ -5,7 +5,7 @@ html {
 body {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 13pt;
-    background-color: #fffefefa;
+    
     padding: 10px;
     margin: 0;
 }
@@ -34,7 +34,7 @@ p {
 	box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
 }
 .section {
-    background-color: #fff;
+    
     padding: 15px;
     margin-bottom: 10px;
     border-radius: 10px;
@@ -45,7 +45,6 @@ p {
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
-	background-color: #f3f3f3;
     text-align: center;
 }
 #header #name {
@@ -79,7 +78,7 @@ p {
 #about {
 	width: 100%;
 	min-height: 40%;
-	background-color: white;
+	
 	display: flex;
 	flex-direction: column;
 	justify-content: center;
@@ -105,7 +104,7 @@ p {
 	color: gray;
 }
 .icon-bar {
-    position: absolute;
+	position: absolute;
     top: 50%;
     -webkit-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
@@ -131,20 +130,20 @@ p {
   }
   .facebook {
       background-size: cover;
-    background-image: url(fb.png);
+    background-image: url(img/fb.png);
     color: white;
   }
   
   .instagram {
     background-size: cover;
-    background-image: url(ig.png);
+    background-image: url(img/ig.png);
     color: white;
   }
   
   .github {
     background-size: cover;
-    background-image: url(gh.png);
-    color: white;
+    background-image: url(img/gh.png);
+	color: white;
   }
   #section-title {
 	font-size: 40px;
@@ -152,6 +151,14 @@ p {
 	padding: 20px;
 	padding-top: 35px;
 	color: white;
+}
+#section-title1 {
+	font-size: 40px;
+	font-weight: 600;
+	padding: 20px;
+	padding-top: 35px;
+	color: #000000;
+	font-family: 'Source Sans Pro', sans-serif;
 }
 
 #section-content {
@@ -218,7 +225,7 @@ p {
 }
 
 .card #p1 {
-    background-image: url('oh.png');
+    background-image: url('img/oh.png');
     background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -229,17 +236,7 @@ p {
 }
 
 .card #p2 {
-	background-image: url('letspy.png');
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: contain !important;	
-	background-position: center;
-	background-repeat: no-repeat;
-}
-
-.card #p3 {
-	background-image: url('py.jpg');
+	background-image: url('img/letspy.png');
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
