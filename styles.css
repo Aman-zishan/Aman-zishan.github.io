@@ -130,19 +130,19 @@ p {
   }
   .facebook {
       background-size: cover;
-    background-image: url(img/fb.png);
+    background-image: url(fb.png);
     color: white;
   }
   
   .instagram {
     background-size: cover;
-    background-image: url(img/ig.png);
+    background-image: url(ig.png);
     color: white;
   }
   
   .github {
     background-size: cover;
-    background-image: url(img/gh.png);
+    background-image: url(gh.png);
 	color: white;
   }
   #section-title {
@@ -225,7 +225,7 @@ p {
 }
 
 .card #p1 {
-    background-image: url('img/oh.png');
+    background-image: url('oh.png');
     background-size: cover;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -236,7 +236,7 @@ p {
 }
 
 .card #p2 {
-	background-image: url('img/letspy.png');
+	background-image: url('letspy.png');
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
