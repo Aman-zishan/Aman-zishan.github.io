@@ -45,13 +45,13 @@ const CONFIG = {
           title: 'Bandit',
           description:
             'Transaction investigation tool for tracking stolen funds in stacks',
-          imageUrl: 'src/assets/bandit.png',
+          imageUrl: '/assets/bandit.png',
           link: 'https://app.hashhavoc.com/bandit',
         },
         {
           title: 'Mega DAO',
           description: 'DAO for the NFT community of Megapont',
-          imageUrl: 'src/assets/megadao.png',
+          imageUrl: '/assets/megadao.png',
           link: 'https://dao.megapont.com',
         },
       ],
