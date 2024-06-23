@@ -46,12 +46,13 @@ const CONFIG = {
           description:
             'Transaction investigation tool for tracking stolen funds in stacks',
           imageUrl: '/assets/bandit.png',
-          link: 'https://app.hashhavoc.com/bandit',
+          link: 'https://github.com/Aman-zishan/Aman-zishan.github.io/blob/main/public/bandit.png?raw=true',
         },
         {
           title: 'Mega DAO',
           description: 'DAO for the NFT community of Megapont',
-          imageUrl: '/assets/megadao.png',
+          imageUrl:
+            'https://github.com/Aman-zishan/Aman-zishan.github.io/blob/main/public/megadao.png?raw=true',
           link: 'https://dao.megapont.com',
         },
       ],
